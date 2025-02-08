@@ -1,0 +1,12 @@
+.idea
+.history
+.vscode
+.DS_Store
+.github
+.gitlab
+.gitignore
+.dockerignore
+.git
+defaults.env
+.env
+Dockerfile
